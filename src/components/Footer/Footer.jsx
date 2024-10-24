@@ -101,7 +101,6 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* Company Address */}
             <div className="py-8 px-4 col-span-2 sm:col-auto">
               <h1 className="text-xl font-bold sm:text-left mb-3">Address</h1>
               <div>
